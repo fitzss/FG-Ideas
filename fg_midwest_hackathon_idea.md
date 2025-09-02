@@ -8,7 +8,7 @@ That creates a new champion user in the plant.
 ---
 
 ## Proposal
-Run a **FleetGlue hackathon** with **Central Valley AI** to create and certify the “Factory Orchestrator.”
+Run a **FleetGlue hackathon** to create and certify the “Factory Orchestrator.”
 
 ---
 
