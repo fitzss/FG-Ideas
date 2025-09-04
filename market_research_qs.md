@@ -41,96 +41,116 @@
 - **Source placeholders:** BLS/BEA growth by NAICS (20XX), sector reports
 
 ---
-# 3) Automation and robotics adoption snapshot
+# 3A) How many US manufacturers use advanced automation?
+
+## Definition to use on slide
+**Robots or machine vision in production plus coordination beyond a single PLC cell.**
 
 ---
 
-## Working definitions
-
-**Advanced automation** = robots, machine vision, sensors, plus orchestration beyond a single PLC cell.  
-
-**Robotics specifically** = industrial arms, cobots, AMRs in production or material flow.  
-
----
-
-## Maturity ladder (plant level)
-
-- **Stage 0** none  
-- **Stage 1** cell  
-- **Stage 2** line  
-- **Stage 3** plant  
-- **Stage 4** multi-site  
-
-**FleetGlue sweet spot:** Stages 2 to 4.  
+## Sizing method (show, don’t guess)
+- Pull **Census CBP**: count manufacturing establishments by NAICS 31–33 and size band (1–99, 100–499, 500+).  
+- Apply adoption rates by vertical and size band using recent surveys (placeholders below). Build low / mid / high scenarios.  
+- Cross-check with plant maturity ladder (Stage 1–4) from interviews or surveys.  
 
 ---
 
-## By size band (insert % after sourcing)
-
-- **1 to 99:** low robotics, pockets in welding and packaging.  
-- **100 to 499:** Stage 1 to 2 common, AMR interest rising.  
-- **500 plus:** highest penetration, Stage 2 to 3, some Stage 4 in regulated sectors.  
-
----
-
-## By vertical
-
-- **Auto OE and Tier 1:** high robotics, strict change control, Stage 3 to 4.  
-- **Electronics and semi back-end:** high robotics and vision, fast changeovers, Stage 2 to 3.  
-- **Aerospace and defense:** validation heavy, Stage 1 to 3.  
-- **Food and beverage:** growth in packaging and intralogistics, Stage 1 to 2.  
-- **Medical devices and pharma:** strong validation and e-records, Stage 2 to 3.  
-- **Metals and job shops:** early but growing for tending and AMRs, Stage 0 to 2.  
+## Output (fill placeholders once sourced)
+- Estimated plants with advanced automation: **[LOW]–[MID]–[HIGH]**  
+- Share of all manufacturing establishments: **[x%]–[y%]–[z%]**  
+- Concentration: auto, electronics, F&B, 3PL drive most of the count  
 
 ---
 
-## How to size penetration (show low and high)
-
-- Pull IFR United States installed base and latest density.  
-- Estimate plants with robots by dividing installed base by robots-per-plant assumptions by vertical and size band, bounded by Census establishments.  
-- **AMRs:** use A3 trend data and vendor case studies to estimate multi-robot plants and where AMRs are already in production.  
+## Why FleetGlue cares
+This is the **top of funnel for orchestration.** Prioritize Stage 2–4 plants and regulated environments.  
 
 ---
 
-## What to capture in CRM for every account
-
-- Stage 0 to 4  
-- Brands on site (robots, PLCs, WMS, MES)  
-- Validation regime  
-- Changeover cadence  
-- Exceptions per shift  
-- Downtime policy  
-
-**Buying cues:** mixed-brand fleets, no planned downtime, audit trail requirements.  
+## Sources to plug in
+- U.S. Census CBP 20XX  
+- MHI/NAM/Deloitte adoption surveys 20XX  
+- Internal discovery notes  
 
 ---
 
-## Pilot metrics to prove fit
+# 3B) How many US manufacturers use robotics specifically?
 
-- Time to first value in hours  
+## Definition to use on slide
+**At least one industrial arm, cobot, or AMR in production or material flow.**
+
+---
+
+## Sizing method (transparent math)
+- Pull **IFR United States:** installed base and density.  
+- Estimate robots-per-plant by vertical and size band to convert installed base into a count of plants with ≥1 robot.  
+- Bound by **Census CBP** establishment counts to keep ratios realistic.  
+- Break out **AMR vs. fixed robots** with A3 trend data and vendor case studies.  
+
+---
+
+## Output (placeholders)
+- Plants with ≥1 robot: **[LOW]–[MID]–[HIGH]**  
+- Vertical split: auto [x%], electronics [y%], F&B [z%], other [w%]  
+- AMR production users: **[LOW]–[MID]–[HIGH]** plants  
+
+---
+
+## Why FleetGlue cares
+These are **mixed-brand, multi-system sites** where cross-device workflows and audit logs matter.  
+
+---
+
+## Sources to plug in
+- IFR World Robotics 20XX  
+- A3 20XX  
+- Vendor case studies  
+- U.S. Census CBP 20XX  
+
+---
+
+# 3C) AMR: Integration & Scaling
+
+## Integration pain (go-live)
+- WMS/MES/ERP adapters & order mapping  
+- Doors/conveyors/elevators/chargers handoffs  
+- RF coverage & roaming; map/version control  
+- Safety zones & traffic rules across brands  
+
+---
+
+## Scaling pain (post-pilot)
+- Mixed fleets (multi-brand/model)  
+- Mission priority, exception handling, queueing  
+- Battery/charger scheduling; congestion  
+- Change control, validation, auditability  
+- Upgrades with zero planned downtime  
+
+---
+
+## FleetGlue fit
+- **Vendor-agnostic orchestration & policy engine**  
+- **Reusable adapters/blocks for handoffs**  
+- **Signed audit logs; safe changeovers**  
+- **Remote ops & no-downtime upgrades**  
+
+---
+
+## Pilot proof metrics
+- Time to first value  
 - Mission success rate  
 - Exceptions auto-resolved  
 - Changeover time delta  
 - Count of no-downtime upgrades  
-- Number of signed audit logs accepted by QA or compliance  
+- Signed audit logs accepted by QA/compliance  
 
 ---
 
 ## Source placeholders
-
-- IFR World Robotics 20XX  
-- A3 20XX  
-- Deloitte or McKinsey 20XX surveys  
-- Census CBP and BLS for denominators  
-
----
-# 4) SI Business Model (Revenue, Pros/Cons) & FleetGlue Angle
-
-- **Revenue mix:** Project engineering (T&M/fixed‑bid); hardware resale margins; custom software; change orders; FAT/SAT; training; support/maintenance; SaaS add‑ons (small)
-- **What’s good:** Deep plant access & trust; cross‑brand expertise; sticky lifecycle
-- **What hurts:** Lumpy demand; labor‑bound growth; low IP reuse; scope creep; thin margins
-- **FleetGlue angle:** Turn one‑offs into **reusable blocks**; vendor‑agnostic orchestration; **recurring site licenses**; **faster time‑to‑ROI**
-- **Source placeholders:** A3/RIA member profiles; SI sites; trade interviews
+- A3 AMR reports 20XX  
+- Vendor case studies  
+- Customer interviews  
+- Internal pilots  
 
 ---
 # 5) AMR Pain Map → FleetGlue Fit
@@ -144,6 +164,14 @@
 | Exception handling        | Stalls on edge cases; manual operator fixes              | If‑then automations; escalation; **MTTR** dashboards         |
 | Scaling sites             | Each site re‑implements from scratch                     | Blocks/playbooks reusable; templated rollouts                |
 
+---
+# 4) SI Business Model (Revenue, Pros/Cons) & FleetGlue Angle
+
+- **Revenue mix:** Project engineering (T&M/fixed‑bid); hardware resale margins; custom software; change orders; FAT/SAT; training; support/maintenance; SaaS add‑ons (small)
+- **What’s good:** Deep plant access & trust; cross‑brand expertise; sticky lifecycle
+- **What hurts:** Lumpy demand; labor‑bound growth; low IP reuse; scope creep; thin margins
+- **FleetGlue angle:** Turn one‑offs into **reusable blocks**; vendor‑agnostic orchestration; **recurring site licenses**; **faster time‑to‑ROI**
+- **Source placeholders:** A3/RIA member profiles; SI sites; trade interviews
 ---
 # 6) Competitive Positioning (Quick Matrix)
 
