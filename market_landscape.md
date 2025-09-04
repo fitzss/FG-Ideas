@@ -93,6 +93,17 @@ Project engineering (T&M or fixed-bid), hardware resale margins (robots/PLCs/saf
 
 **Analytical takeaway:** stalls usually trace to policy and orchestration debt rather than robot capability per se.  
 
+# 5A) AMR Pain Map → FleetGlue Fit
+
+| AMR Pain Point            | What Plants Experience                                  | FleetGlue Fit (Fortuna)                                      |
+|---------------------------|----------------------------------------------------------|--------------------------------------------------------------|
+| WMS/MES/ERP interop       | Custom glue, brittle APIs, long lead times               | Prebuilt adapters + reusable blocks; **no‑downtime** cutover |
+| Cross‑brand workflows     | AMRs + conveyors/doors/elevators don’t coordinate        | Vendor‑agnostic orchestration; cross‑system mission logic    |
+| Traffic & safety rules    | Congestion, near‑misses, inconsistent policies           | Central policy engine + **signed audit logs**                |
+| Maps/versioning/changes   | Layout changes break missions; rollback risk             | Versioned maps & workflows; sandbox + safe deploy            |
+| Exception handling        | Stalls on edge cases; manual operator fixes              | If‑then automations; escalation; **MTTR** dashboards         |
+| Scaling sites             | Each site re‑implements from scratch                     | Blocks/playbooks reusable; 
+
 ---
 
 # 6) Competitive Positioning (how they frame themselves)
