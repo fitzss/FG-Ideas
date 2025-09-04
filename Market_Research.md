@@ -43,16 +43,46 @@ The market is long-tail heavy: most firms are small; a thin top slice drives shi
 **Bias by size:** 500+ employees: common; 100–499: mixed; 1–99: pockets only.  
 **Unknowns:** lack of a uniform definition in surveys → expect variance in reported rates.  
 
-## 3b) “Robotics specifically” (who has ≥1 robot)
-**Definition:** at least one industrial arm, cobot, or AMR used in production/material flow.  
+## 3B) How many U.S. manufacturers use robotics (analysis)
 
-**Prevalence (directional):**  
-- Plants with ≥1 robot = minority overall across all establishments, majority within Auto OE/Tier-1 and some electronics.  
-- AMR penetration is accelerating in warehousing and expanding into packaging/intralogistics in F&B and discrete manufacturing.  
+### Headline estimate
+**Roughly 25k–45k plants in NAICS 31–33 operate ≥1 robot (industrial arm, cobot, or AMR)**—about **5–9% of all manufacturing establishments.**  
 
-**Sizing method (analytical frame):** IFR installed base → infer robots-per-plant by vertical/size → bound by CBP plant counts → produce low/mid/high estimates.  
+---
 
-**Uncertainty drivers:** multi-robot concentration at large plants skews averages; AMR units are under-reported vs. fixed industrial robots.  
+### Why this order of magnitude
+The U.S. installed base is in the hundreds of thousands of robots, but they cluster in larger sites (dozens to hundreds per plant), so the count of robot-using plants lands in the tens of thousands, not hundreds of thousands.  
+
+---
+
+### Where they are (sector mix)
+- **Heavy concentration:** Auto OE/Tier-1 and electronics/back-end semi (many robots per site; most plants robotized).  
+- **Expanding:** Food & beverage/CPG (packaging, palletizing, intralogistics), aerospace/defense (cells with validation), medical devices/pharma (regulated lines).  
+- **Early:** Metals/job shops (arc-weld, machine-tending, small cobot cells).  
+
+---
+
+### By plant size (directional)
+- **500+ employees:** majority have robots.  
+- **100–499:** meaningful minority (often multiple cells; AMRs beginning).  
+- **<100:** small share, growing via cobots and turnkey cells.  
+
+---
+
+### AMR-specific note
+Thousands of plants run AMRs today (most visible in warehousing/3PL, spreading into F&B and discrete mfg intralogistics). Counts are underreported relative to fixed industrial robots.  
+
+---
+
+### Regional clusters
+Midwest auto corridor (MI, OH, IN), TX/AZ (electronics/semis), plus CA/MA pockets (med-device/advanced mfg).  
+
+---
+
+### Confidence flags
+- **High:** concentration patterns  
+- **Medium:** total plant count range (skew from mega-sites)  
+- **Low:** AMR-only prevalence (data gaps)   
 
 ---
 
