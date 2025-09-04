@@ -48,36 +48,30 @@ The market is long-tail heavy: most firms are small; a thin top slice drives shi
 ### Headline estimate
 **Roughly 25k–45k plants in NAICS 31–33 operate ≥1 robot (industrial arm, cobot, or AMR)**—about **5–9% of all manufacturing establishments.**  
 
----
 
 ### Why this order of magnitude
 The U.S. installed base is in the hundreds of thousands of robots, but they cluster in larger sites (dozens to hundreds per plant), so the count of robot-using plants lands in the tens of thousands, not hundreds of thousands.  
 
----
 
 ### Where they are (sector mix)
 - **Heavy concentration:** Auto OE/Tier-1 and electronics/back-end semi (many robots per site; most plants robotized).  
 - **Expanding:** Food & beverage/CPG (packaging, palletizing, intralogistics), aerospace/defense (cells with validation), medical devices/pharma (regulated lines).  
 - **Early:** Metals/job shops (arc-weld, machine-tending, small cobot cells).  
 
----
 
 ### By plant size (directional)
 - **500+ employees:** majority have robots.  
 - **100–499:** meaningful minority (often multiple cells; AMRs beginning).  
 - **<100:** small share, growing via cobots and turnkey cells.  
 
----
 
 ### AMR-specific note
 Thousands of plants run AMRs today (most visible in warehousing/3PL, spreading into F&B and discrete mfg intralogistics). Counts are underreported relative to fixed industrial robots.  
 
----
 
 ### Regional clusters
 Midwest auto corridor (MI, OH, IN), TX/AZ (electronics/semis), plus CA/MA pockets (med-device/advanced mfg).  
 
----
 
 ### Confidence flags
 - **High:** concentration patterns  
