@@ -30,18 +30,31 @@ The market is long-tail heavy: most firms are small; a thin top slice drives shi
 
 ---
 
-# 3) Adoption Snapshot
+# 3A) Advanced automation — where it actually lives (by sector)
 
-## 3a) “Advanced automation” (definition & prevalence)
-**Definition (for analysis):** robots + machine vision/sensing with coordination beyond a single PLC cell (i.e., line/plant-level orchestration, data feedback).  
+**Definition (for analysis):** robots + machine vision/sensing with coordination beyond a single PLC cell (line/plant-level logic, MES/WMS feedback, governed change control).  
 
-**Prevalence (directional):**  
-- **High:** Auto OE/Tier-1; electronics; some med-devices.  
-- **Rising:** Food & bev; 3PL co-located with plants.  
-- **Early:** Metals/job shops and misc. discrete.  
+---
 
-**Bias by size:** 500+ employees: common; 100–499: mixed; 1–99: pockets only.  
-**Unknowns:** lack of a uniform definition in surveys → expect variance in reported rates.  
+### Sector Breakdown
+
+| Sector                              | Where it shows up                                                                 | Orchestration proof points                                                                                   | Prevalence |
+|-------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------|
+| **Auto OE & Tier-1**                | BIW welding, paint, powertrain machining, EOL test, lineside AMRs                  | MES/andon closed-loop, cross-brand traffic/safety, versioned changeovers, signed test logs                   | High       |
+| **Electronics & Semi (back-end)**   | SMT lines, AOI/ICT, conformal coat, box-build test, tote/tray AMRs                 | Recipe + serialization control, rapid coordinated changeovers, WMS↔MES order tie-in                          | High       |
+| **Medical Devices & Pharma**        | Aseptic fill/cap, blister/label/pack, sterile transfers, UDI, AMRs through airlocks | Validated change control, EBR/e-signatures, interlocked doors/elevators, traceable rework                     | High       |
+| **EV / Batteries**                  | Electrode coat/calender, stack/wind, formation/aging, pack assembly, dry-room AMRs | Genealogy, recipe interlocks, charger/traffic policies, safety sign-offs                                     | High       |
+| **Food & Beverage / CPG**           | Case pack, palletize, inspect/reject, washdown cobots, conveyor+AMR flow           | Sanitation-window scheduling, allergen/recipe swaps, weigh-price + traceability loops                        | Rising     |
+| **Aerospace & Defense**             | Automated drill/rivet, composite layup, CMM, kitting AMRs                          | Tool calibration traceability, ITAR-governed releases/rollbacks, multi-vendor cells                          | Rising     |
+| **Co-located 3PL / Intralogistics** | Goods-to-person, tuggers/AMRs, sorters/shuttles, dock scheduling                   | WMS-driven missions into MES, global traffic policies, door/conveyor handoffs                                | Rising     |
+| **Metals & Job Shops (Discrete)**   | CNC tending, welding cells, press-brake, bin-picking, in-process metrology         | Mostly cell-level; limited plant-wide rules beyond scheduler/QA feedback                                     | Early      |
+| **Construction Materials / Building Products** | Bag/fill, palletize, stretch-wrap, kiln/curing, AGV/forklift moves       | Batch/lot genealogy, line→warehouse coordination, emerging defect vision loops                               | Rising     |
+
+
+### Bottom line
+Advanced automation clusters where flow is repeatable and/or regulated (auto, electronics, med-pharma, EV).  
+High-mix shops are automated at the cell, with plant-level orchestration still emerging.  
+
 
 ## 3B) How many U.S. manufacturers use robotics (analysis)
 
