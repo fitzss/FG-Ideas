@@ -93,7 +93,7 @@ Project engineering (T&M or fixed-bid), hardware resale margins (robots/PLCs/saf
 
 **Analytical takeaway:** stalls usually trace to policy and orchestration debt rather than robot capability per se.  
 
-# 5A) AMR Pain Map → FleetGlue Fit
+## 5a) AMR Pain Map → FleetGlue Fit
 
 | AMR Pain Point            | What Plants Experience                                  | FleetGlue Fit (Fortuna)                                      |
 |---------------------------|----------------------------------------------------------|--------------------------------------------------------------|
