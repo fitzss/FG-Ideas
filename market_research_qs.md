@@ -41,19 +41,87 @@
 - **Source placeholders:** BLS/BEA growth by NAICS (20XX), sector reports
 
 ---
-# 3) Automation & Robotics Adoption Snapshot
+# 3) Automation and robotics adoption snapshot
 
-- **Working definition (“advanced automation”):** robots + machine vision + orchestration **beyond single‑cell PLCs**
-- **Adoption concentration:**  
-  - **High:** autos/electronics  
-  - **Rising:** F&B/3PL  
-  - **Early:** job shops
-- **Robotics penetration (directional):**  
-  - Plants with ≥1 robot = **minority overall**; **majority** in auto OE/Tier‑1  
-  - US **robot density** rising (insert latest **IFR 20XX**)
-- **Pilot/CRM execution metrics:**  
-  - **TTFV** (time‑to‑first‑value), **mission success rate**, **exceptions resolved**, **no‑downtime upgrades**, **audit logs produced**
-- **Source placeholders:** IFR 20XX; A3 20XX; Deloitte/McKinsey surveys
+---
+
+## Working definitions
+
+**Advanced automation** = robots, machine vision, sensors, plus orchestration beyond a single PLC cell.  
+
+**Robotics specifically** = industrial arms, cobots, AMRs in production or material flow.  
+
+---
+
+## Maturity ladder (plant level)
+
+- **Stage 0** none  
+- **Stage 1** cell  
+- **Stage 2** line  
+- **Stage 3** plant  
+- **Stage 4** multi-site  
+
+**FleetGlue sweet spot:** Stages 2 to 4.  
+
+---
+
+## By size band (insert % after sourcing)
+
+- **1 to 99:** low robotics, pockets in welding and packaging.  
+- **100 to 499:** Stage 1 to 2 common, AMR interest rising.  
+- **500 plus:** highest penetration, Stage 2 to 3, some Stage 4 in regulated sectors.  
+
+---
+
+## By vertical
+
+- **Auto OE and Tier 1:** high robotics, strict change control, Stage 3 to 4.  
+- **Electronics and semi back-end:** high robotics and vision, fast changeovers, Stage 2 to 3.  
+- **Aerospace and defense:** validation heavy, Stage 1 to 3.  
+- **Food and beverage:** growth in packaging and intralogistics, Stage 1 to 2.  
+- **Medical devices and pharma:** strong validation and e-records, Stage 2 to 3.  
+- **Metals and job shops:** early but growing for tending and AMRs, Stage 0 to 2.  
+
+---
+
+## How to size penetration (show low and high)
+
+- Pull IFR United States installed base and latest density.  
+- Estimate plants with robots by dividing installed base by robots-per-plant assumptions by vertical and size band, bounded by Census establishments.  
+- **AMRs:** use A3 trend data and vendor case studies to estimate multi-robot plants and where AMRs are already in production.  
+
+---
+
+## What to capture in CRM for every account
+
+- Stage 0 to 4  
+- Brands on site (robots, PLCs, WMS, MES)  
+- Validation regime  
+- Changeover cadence  
+- Exceptions per shift  
+- Downtime policy  
+
+**Buying cues:** mixed-brand fleets, no planned downtime, audit trail requirements.  
+
+---
+
+## Pilot metrics to prove fit
+
+- Time to first value in hours  
+- Mission success rate  
+- Exceptions auto-resolved  
+- Changeover time delta  
+- Count of no-downtime upgrades  
+- Number of signed audit logs accepted by QA or compliance  
+
+---
+
+## Source placeholders
+
+- IFR World Robotics 20XX  
+- A3 20XX  
+- Deloitte or McKinsey 20XX surveys  
+- Census CBP and BLS for denominators  
 
 ---
 # 4) SI Business Model (Revenue, Pros/Cons) & FleetGlue Angle
