@@ -1,4 +1,4 @@
-# 1) U.S. Manufacturing Landscape (NAICS 31–33)
+# 1) U.S. Manufacturing Landscape
 
 ## How many manufacturers (firms vs. plants)
 Directionally: ~¼ million firms and ~½–⅔ million establishments (plants).  
