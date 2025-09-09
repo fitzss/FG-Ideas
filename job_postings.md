@@ -106,7 +106,7 @@
 
 # Industrial Machinery / Ag / Construction (6)
 
-- Caterpillar — Plant Systems (AMR/MES) — Peoria, IL — heavy intralogistics handoffs
+- Caterpillar — Plant Systems (AMR/MES) — Peoria, IL — heavy intralogistics handoffs https://careers.caterpillar.com/en/jobs/r0000321699/logistics-engineer-automation/
 - John Deere — Automation Engineer (AMR) — Moline, IL/Waterloo, IA — mixed PLC + AMR
 - CNH Industrial — Controls/MES (AGV/AMR) — Racine, WI/Kokomo, IN — policy & map control
 - AGCO — Manufacturing Systems (AMR) — Jackson, MN — line kitting via AMR
