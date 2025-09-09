@@ -139,7 +139,7 @@
 
 - **Ashley Furniture — AMR/AGV Applications/Integration Engineer — Advance, NC (manufacturing + DC)**  
   *Signals:* AMR/AGV across multiple facilities, MES/WMS integration, fleet oversight, KPI ownership.  
-  *Source:* Ashley careers / Indeed / Glassdoor.
+  *Source:* Ashley careers / Indeed / Glassdoor. https://www.indeed.com/viewjob?jk=1eb9d6e5bbb77c10&from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt
 
 - **IKEA (Distribution Services) — Process Flow Engineer, Automation (Intralogistics) — Burlington, ON (proxy for U.S. DCs)**  
   *Signals:* In-house logistics automation & CI; AMR deployment & maintenance explicitly in scope.  
