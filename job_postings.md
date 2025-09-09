@@ -128,3 +128,73 @@
 - Search each company + role on LinkedIn/Indeed (U.S., add MI/OH/IN/IL/WI filter first).
 - Prioritize JDs that mention AMR/AGV + WMS/MES, doors/elevators/conveyors/chargers, Ignition/Kepware/ControlLogix/TIA, validation/Part 11, multi-site templates, no planned downtime.
 - For each posting, note the one first loop you’d propose (e.g., WMS order → AMR → door interlock → conveyor + signed audit log) and save the exact JD lines you’ll reference in outreach.
+
+# Furniture & Home Goods Mfg + DC Intralogistics (New Vertical)
+
+> Why this vertical: high conveyor/door/elevator handoff surface area, mixed-vendor equipment, and constant SKU/mix changes → perfect for FleetGlue’s cross-system orchestration (WMS↔AMR/AGV↔conveyors/doors), **no-downtime** policy changes, and **signed audit logs**.
+
+---
+
+## Current posting examples (Signals + Source)
+
+- **Ashley Furniture — AMR/AGV Applications/Integration Engineer — Advance, NC (manufacturing + DC)**  
+  *Signals:* AMR/AGV across multiple facilities, MES/WMS integration, fleet oversight, KPI ownership.  
+  *Source:* Ashley careers / Indeed / Glassdoor.
+
+- **IKEA (Distribution Services) — Process Flow Engineer, Automation (Intralogistics) — Burlington, ON (proxy for U.S. DCs)**  
+  *Signals:* In-house logistics automation & CI; AMR deployment & maintenance explicitly in scope.  
+  *Source:* jobs.ikea.com.
+
+- **Wayfair — Senior Manager, Automation Systems (MHE) — Boston, MA / Allentown, PA / Hebron, KY (DC network)**  
+  *Signals:* Leads multi-site MHE programs; AMRs in scope; cross-team orchestration and audit needs.  
+  *Source:* Wayfair careers.
+
+---
+
+## Target account list (one-liners you can paste into outreach)
+
+- **Steelcase (Grand Rapids, MI) — Manufacturing Systems/Automation Engineer (AMR/MES)** — multi-plant conveyors & kitting; MES upgrades; *first loop:* WMS pick → AMR to line → door interlock → conveyor merge + signed log.
+
+- **MillerKnoll (Zeeland, MI) — Controls/MES Engineer (AMR/AGV integration)** — legacy + new cells; frequent changeovers; *first loop:* MES order → AMR tote run → badge/IO interlock at station.
+
+- **HNI / HON / Allsteel (Muscatine, IA) — Automation Engineer, Intralogistics (AMR/WMS)** — mixed PLC stacks; cabinets/fixtures; *first loop:* WMS wave → AMR pallet → stretch-wrap conveyor join rules.
+
+- **La-Z-Boy (Monroe, MI) — Manufacturing Controls Engineer (AMR/Conveyors)** — upholstery cells feeding lines; doors/elevators; *first loop:* Kanban → AMR replenishment → door + zone speed policy.
+
+- **Tempur Sealy (Duffield, VA / Albuquerque, NM) — Automation/MES Engineer (AMR)** — foam handling; large pallets; strict uptime; *first loop:* ERP→WMS job → AMR to press/pack → conveyor divert + audit trail.
+
+- **Serta Simmons Bedding (Doraville, GA) — Material Flow/Automation Engineer (AGV/AMR)** — greenfield rebuild; mixed fleet/chargers; *first loop:* charger scheduling + main-aisle priority policy (multi-brand).
+
+- **Sleep Number (MN / AZ) — Manufacturing Systems Engineer (AMR/MES/WMS)** — ETO/ATO; DC↔plant loops; *first loop:* WMS carton ready → AMR lane feed → elevator ride to mezz → conveyor handoff.
+
+- **MasterBrand Cabinets (Jasper, IN) — Controls Engineer (AMR/Conveyors/PLC)** — heavy conveyors; scan/label; *first loop:* scan event → AMR tote dispatch → interlocked door → conveyor zone merge.
+
+- **American Woodmark (Winchester, VA) — MES/Automation Engineer (AMR)** — SKU proliferation; kitting; traceability; *first loop:* MES kit short → AMR fetch → weigh/scan validation → signed exception log.
+
+- **IKEA (U.S. DCs: Joliet, IL / Westampton, NJ / Baytown, TX) — Automation/AMHS Engineer (AGV/AMR)** — mature WMS; traffic/safety zones; *first loop:* WMS task → AMR pallet to dock → dock-door interlock + staging queue policy.
+
+- **Wayfair Fulfillment (Hebron, KY / Cranbury, NJ / DFW, TX) — Robotics/Automation Engineer (AMR/WMS)** — high-mix e-comm; peak intensity; *first loop:* wave release → AMR pick→pack → conveyor induction rate control + MTTR dashboard.
+
+- **Williams-Sonoma DC (Olive Branch, MS / City of Industry, CA) — Automation/Controls Engineer (WMS/Conveyors/AMR)** — bulk handling; dock/door orchestration; *first loop:* inbound ASN → AMR putaway → forklift coexistence traffic policy.
+
+- **Crate & Barrel DC (Romeoville, IL) — Automation Engineer (Sortation/WMS/AMR)** — high carton flow + oversized exceptions; *first loop:* exception divert → AMR manual lane recovery → evidence packet to WMS.
+
+- **RH / Restoration Hardware DC (Concord, CA / Northeast hubs) — Intralogistics Automation (AMR/AGV)** — very large SKUs; mezz/elevators; *first loop:* AMR + elevator orchestration with dock time-window prep.
+
+- **Rooms To Go / American Furniture Warehouse (regional DCs) — Material Handling Automation Eng (AMR/Conveyors)** — high cube; dock handoffs; *first loop:* yard arrival → WMS cross-dock mission → AMR shuttle to shipping sorter.
+
+---
+
+## How to use this list (same playbook as other verticals)
+
+- **Search syntax (LI/Indeed/company sites):**  
+  `("AMR" OR "AGV" OR "autonomous mobile robot") AND (WMS OR MES OR Ignition OR Kepware OR "ControlLogix") AND (conveyor OR door OR elevator OR charger)`
+
+- **Qualify fast (keep/skip):** keep postings that mention *AMR/AGV + WMS/MES* and at least one *handoff* (conveyor/door/elevator/charger) or *policy* (traffic/safety/charger scheduling).
+
+- **Propose a single loop:** *WMS order → AMR mission → door/elevator interlock → conveyor handoff + signed audit log.* Promise **≤1-day TTFV** and **no planned downtime** for policy/version changes.
+
+- **Measure the pilot:** *TTFV (hours), mission success %, exceptions auto-resolved, # of signed logs*.
+
+---
+
