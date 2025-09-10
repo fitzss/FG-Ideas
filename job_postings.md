@@ -123,7 +123,7 @@
 - Boeing — Industrial Automation (AMR/AGV) — Everett, WA/Charleston, SC — hangar AMR + safety/traffic
 - Lockheed Martin — Manufacturing Systems (AMR/MES) — Fort Worth, TX — ITAR + auditability
 - Northrop Grumman — Automation (AMR) — Clearfield, UT — composite layup → kitting flows
-- RTX/Collins Aerospace — Controls/MES (AMR) — Cedar Rapids, IA — validation + traceability
+- RTX/Collins Aerospace — Controls/MES (AMR) — Cedar Rapids, IA — validation + traceability https://careers.rtx.com/global/en/job/01786456/Principal-Engineer-Manufacturing-Test-Equipment-Engineer-Smart-Factory-Onsite
 - GE Aerospace — Manufacturing IT/OT (AMR) — Cincinnati, OH — cross-brand orchestration
 - Spirit AeroSystems — Automation Engineer (AMR) — Wichita, KS — door/elevator handoffs at scale
 
