@@ -155,7 +155,7 @@
 
 - **Steelcase (Grand Rapids, MI) — Manufacturing Systems/Automation Engineer (AMR/MES)** — multi-plant conveyors & kitting; MES upgrades; *first loop:* WMS pick → AMR to line → door interlock → conveyor merge + signed log.
 
-- **MillerKnoll (Zeeland, MI) — Controls/MES Engineer (AMR/AGV integration)** — legacy + new cells; frequent changeovers; *first loop:* MES order → AMR tote run → badge/IO interlock at station.
+- **MillerKnoll (Zeeland, MI) — Controls/MES Engineer (AMR/AGV integration)** — legacy + new cells; frequent changeovers; *first loop:* MES order → AMR tote run → badge/IO interlock at station. https://www.linkedin.com/jobs/view/vice-president-of-smart-manufacturing-at-millerknoll-4280372987/ https://www.linkedin.com/jobs/view/infrastructure-systems-ai-intern-at-millerknoll-4296351590#:~:text=MillerKnoll%20Summer%20Internship%20Program%20is,Schedule:%20Full%20Time
 
 - **HNI / HON / Allsteel (Muscatine, IA) — Automation Engineer, Intralogistics (AMR/WMS)** — mixed PLC stacks; cabinets/fixtures; *first loop:* WMS wave → AMR pallet → stretch-wrap conveyor join rules.
 
