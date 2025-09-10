@@ -183,6 +183,8 @@
 
 - **Rooms To Go / American Furniture Warehouse (regional DCs) — Material Handling Automation Eng (AMR/Conveyors)** — high cube; dock handoffs; *first loop:* yard arrival → WMS cross-dock mission → AMR shuttle to shipping sorter.
 
+- **Dematic** https://www.linkedin.com/jobs/view/amr-systems-engineer-at-dematic-4292411186#:~:text=The%20base%20pay%20range%20for,the%20implementation%20phase%20on%20site.
+
 ---
 
 ## How to use this list (same playbook as other verticals)
