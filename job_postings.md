@@ -23,7 +23,7 @@
 - Magna — AMR Applications Engineer — Detroit area, MI — multi-brand AMR + PLCs
 - ZF — Controls Engineer (AGV/AMR + MES) — Auburn Hills, MI — VDA-5050 mentions, traffic rules
 - Bosch — Manufacturing IT/OT (MES/AMR) — Charleston, SC/Anderson, SC — Ignition/Kepware stacks
-- DENSO — Automation Engineer (AMR/Conveyors) — Battle Creek, MI — doors/elevators handoffs
+- DENSO — Automation Engineer (AMR/Conveyors) — Battle Creek, MI — doors/elevators handoffs https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21970#:~:text=Job%20Summary:,Preventive%20Maintenance%20&%20Spare%20part%20planning
 - Continental — Robotics Integration (AMR/WMS) — Auburn Hills, MI — cross-brand workflows
 - Lear — Industrial Engineer (Line + AMR) — Southfield, MI — line kitting via AMR https://jobs.lear.com/job/Comstock-Park-Controls-&-Automation-Engineer-Sr_-Specialist-MI-49321/1237473301/
 - Aptiv — MES Integration (AMR/AGV) — Troy, MI — order mapping, audit logs
