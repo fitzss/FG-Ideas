@@ -9,7 +9,7 @@
 - Stellantis — Controls Engineer (AMR/Conveyors/Elevators) — Auburn Hills, MI — handoffs + traffic policies
 - Toyota North America — Manufacturing IT/OT Architect (MES/AGV) — Georgetown, KY — mixed PLC stacks, validation
 - Honda — Automation Engineer (AGV/AMR + MES) — Marysville, OH — line balance + fleet rules
-- Tesla — Material Flow Automation Engineer (AMR) — Fremont, CA/Austin, TX — WMS + door/elevator interlocks
+- Tesla — Material Flow Automation Engineer (AMR) — Fremont, CA/Austin, TX — WMS + door/elevator interlocks https://www.tesla.com/careers/search/job/automation-controls-engineer-cell-engineering-227588
 - Rivian — Intralogistics Automation Engineer (AMR) — Normal, IL — AMR + chargers, congestion, zero-downtime https://www.linkedin.com/in/erick-josue-garcia-arroyo-537135113/
 - Lucid — Manufacturing Controls (AMR/WMS) — Casa Grande, AZ — cross-system missions, safety zones
 - BMW (Spartanburg) — Logistics Automation Engineer (AGV/AMR) — Greenville, SC — map mgmt + traffic
