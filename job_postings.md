@@ -86,7 +86,7 @@
 - GE HealthCare — Manufacturing IT/OT (AMR) — Milwaukee, WI — MES/WMS + traffic
 - Philips (Respironics/Devices) — Automation (AMR) — PA — compliance + audit
 - Pfizer — Automation/MES (AMR) — Kalamazoo, MI — e-batch, serialization
-- Eli Lilly — Manufacturing Systems (AMR) — Indianapolis, IN — zero-downtime validated deploys
+- Eli Lilly — Manufacturing Systems (AMR) — Indianapolis, IN — zero-downtime validated deploys https://careers.lilly.com/us/en/job/R-73159/Engineer-Building-Automation-Systems
 - Merck — Automation Integration (AMR) — PA/NJ — Part 11 + auditability
 - Amgen — IT/OT Architect (AMR/MES) — RI/FL — change control & templates
 - Catalent — Automation/Validation (AMR) — IN/MD — UDI/EBR + logistics handoffs
