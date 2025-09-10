@@ -153,10 +153,6 @@
   *Signals:* Leads multi-site MHE programs; AMRs in scope; cross-team orchestration and audit needs.  
   *Source:* Wayfair careers.
 
----
-
-## Target account list (one-liners you can paste into outreach)
-
 - **Steelcase (Grand Rapids, MI) — Manufacturing Systems/Automation Engineer (AMR/MES)** — multi-plant conveyors & kitting; MES upgrades; *first loop:* WMS pick → AMR to line → door interlock → conveyor merge + signed log.
 
 - **MillerKnoll (Zeeland, MI) — Controls/MES Engineer (AMR/AGV integration)** — legacy + new cells; frequent changeovers; *first loop:* MES order → AMR tote run → badge/IO interlock at station. https://www.linkedin.com/jobs/view/vice-president-of-smart-manufacturing-at-millerknoll-4280372987/
