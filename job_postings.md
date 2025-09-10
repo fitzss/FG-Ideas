@@ -1,3 +1,47 @@
+# JD Signal Breakdown (what this is & how to use it)
+
+This is a working signal map of live roles that explicitly call for the same outcomes we deliver: **AMR/AGV ↔ WMS/MES orchestration**, **1–2 physical handoffs (doors/elevators/conveyors/chargers)**, **traffic/charging policies**, and **provable audit trails**—with no planned downtime and scalable multi-site templates.
+
+We treat these JDs as **buying signals**. Plants aren’t just hiring people; they’re “hiring” an outcome. Each posting surfaces the **job to be done** (make mixed-brand robots work with existing systems, stabilize handoffs, govern change control/validation). That’s exactly where FleetGlue fits.
+
+---
+
+## What’s inside each entry
+
+- **Company / Role / Location**
+- **Signals pulled from the JD:** AMR/AGV + WMS/MES, named handoffs (doors/elevators/conveyors/chargers), policy/traffic, stacks (Ignition/Kepware/ControlLogix/TIA), validation (GxP/Part 11), multi-site rollout language
+- **Why-now indicator:** uptime/zero-downtime, congestion/throughput, auditability, template scaling
+- **First loop to propose:** e.g., WMS order → AMR mission → door/elevator interlock → conveyor handoff → signed audit log
+- **Stakeholders to thread:** Ops/Industrial Eng, Controls/IT-OT, Quality/Validation (where relevant)
+
+---
+
+## How to read/act on it
+
+- Prioritize posts that mention **AMR/AGV and WMS/MES** plus at least one handoff or policy.
+- Pitch a **5–20 robot pilot (1–2 handoffs)** measurable in weeks: success %, exceptions auto-resolved, # of signed logs, time-to-first-value (hours).
+- Quote their own JD lines in outreach to show fit (**multi-brand fleets, no-downtime changes, traffic/charger rules, audit/validation**).
+
+---
+
+## Why it’s framed this way
+
+These roles expose the exact **integration work plants are trying to staff**: cross-system missions, handoff reliability, versioning/policy governance, and compliance.
+
+FleetGlue is the thing to **“hire” for that outcome**—faster to value, less risk than bespoke glue code or additional headcount, and built for multi-site replication.
+
+---
+
+## Legend (quick)
+
+- **AMR/AGV** = mobile robots  
+- **WMS/MES** = warehouse/manufacturing systems  
+- **Handoffs** = doors/elevators/conveyors/chargers  
+- **Policies** = traffic, safety, charger scheduling  
+- **Validation** = Part 11/IQ-OQ-PQ
+
+
+
 - Kion group https://builtin.com/job/amr-systems-engineer/6994523
 
 - Sterling engineering https://jobs.sterling-engineering.com/jb/Automation-Engineer-AGV-and-ASRS-Jobs-in-Buffalo-Grove-IL/12686592
