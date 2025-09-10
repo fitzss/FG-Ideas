@@ -1,5 +1,6 @@
-Kion group https://builtin.com/job/amr-systems-engineer/6994523
-Sterling engineering https://jobs.sterling-engineering.com/jb/Automation-Engineer-AGV-and-ASRS-Jobs-in-Buffalo-Grove-IL/12686592
+- Kion group https://builtin.com/job/amr-systems-engineer/6994523
+
+- Sterling engineering https://jobs.sterling-engineering.com/jb/Automation-Engineer-AGV-and-ASRS-Jobs-in-Buffalo-Grove-IL/12686592
 
 # Auto OEMs (12)
 
