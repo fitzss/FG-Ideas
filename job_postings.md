@@ -41,7 +41,7 @@ FleetGlue is the thing to **“hire” for that outcome**—faster to value, les
 - **Validation** = Part 11/IQ-OQ-PQ
 
 
-
+## MISC
 - Kion group https://builtin.com/job/amr-systems-engineer/6994523
 
 - Sterling engineering https://jobs.sterling-engineering.com/jb/Automation-Engineer-AGV-and-ASRS-Jobs-in-Buffalo-Grove-IL/12686592
