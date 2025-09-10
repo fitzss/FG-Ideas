@@ -5,7 +5,7 @@
 # Auto OEMs (12)
 
 - Ford — AMR/AGV Integration Engineer — Detroit, MI — AMR + MES, conveyors, doors, multi-plant templates https://www.linkedin.com/in/gabriel-perez-835868319/
-- GM — Robotics Systems Engineer (Material Flow) — Warren, MI — AMR ↔ MES/WMS, change control, plant orchestration
+- GM — Robotics Systems Engineer (Material Flow) — Warren, MI — AMR ↔ MES/WMS, change control, plant orchestration https://search-careers.gm.com/en/jobs/jr-202508511/staff-software-engineer-amr-planning-controls/
 - Stellantis — Controls Engineer (AMR/Conveyors/Elevators) — Auburn Hills, MI — handoffs + traffic policies
 - Toyota North America — Manufacturing IT/OT Architect (MES/AGV) — Georgetown, KY — mixed PLC stacks, validation
 - Honda — Automation Engineer (AGV/AMR + MES) — Marysville, OH — line balance + fleet rules
