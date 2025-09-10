@@ -1,3 +1,5 @@
+Kion group https://builtin.com/job/amr-systems-engineer/6994523
+
 # Auto OEMs (12)
 
 - Ford — AMR/AGV Integration Engineer — Detroit, MI — AMR + MES, conveyors, doors, multi-plant templates https://www.linkedin.com/in/gabriel-perez-835868319/
