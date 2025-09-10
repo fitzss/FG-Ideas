@@ -61,7 +61,7 @@
 - Samsung Austin — Factory Automation (AMR) — Austin, TX — zero-downtime norms
 - GlobalFoundries — Automation (AMR/AGV) — Malta, NY — map + version control
 - Foxconn Wisconsin — Automation Engineer (AMR) — Mount Pleasant, WI — conveyors + AMR
-- Flex — Manufacturing Systems (AMR/MES) — Austin, TX/MI — WMS/MES + doors
+- Flex — Manufacturing Systems (AMR/MES) — Austin, TX/MI — WMS/MES + doors https://www.linkedin.com/jobs/view/senior-automation-engineer-asrs-amr-at-flex-4262196839
 - Jabil — Automation Integration (AMR) — St. Petersburg, FL/MI — mixed brand fleets
 - Sanmina — Controls/MES (AMR) — Huntsville, AL — AOI/test + AMR kitting
 - Celestica — Automation Engineer (AMR) — TX — order/mission mapping
