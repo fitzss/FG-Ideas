@@ -21,7 +21,7 @@
 - Bosch — Manufacturing IT/OT (MES/AMR) — Charleston, SC/Anderson, SC — Ignition/Kepware stacks
 - DENSO — Automation Engineer (AMR/Conveyors) — Battle Creek, MI — doors/elevators handoffs
 - Continental — Robotics Integration (AMR/WMS) — Auburn Hills, MI — cross-brand workflows
-- Lear — Industrial Engineer (Line + AMR) — Southfield, MI — line kitting via AMR
+- Lear — Industrial Engineer (Line + AMR) — Southfield, MI — line kitting via AMR https://jobs.lear.com/job/Comstock-Park-Controls-&-Automation-Engineer-Sr_-Specialist-MI-49321/1237473301/
 - Aptiv — MES Integration (AMR/AGV) — Troy, MI — order mapping, audit logs
 - Faurecia/Forvia — Controls (AMR + Safety/Traffic) — Columbus, IN — policy engine needs
 - Adient — Manufacturing Automation (AMR) — Plymouth, MI — multi-site template rollouts
