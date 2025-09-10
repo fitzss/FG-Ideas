@@ -20,7 +20,7 @@
 
 # Tier-1 Auto Suppliers (18)
 
-- Magna — AMR Applications Engineer — Detroit area, MI — multi-brand AMR + PLCs
+- Magna — AMR Applications Engineer — Detroit area, MI — multi-brand AMR + PLCs https://ca.linkedin.com/jobs/view/amr-controls-technician-at-magna-international-4263617437
 - ZF — Controls Engineer (AGV/AMR + MES) — Auburn Hills, MI — VDA-5050 mentions, traffic rules
 - Bosch — Manufacturing IT/OT (MES/AMR) — Charleston, SC/Anderson, SC — Ignition/Kepware stacks
 - DENSO — Automation Engineer (AMR/Conveyors) — Battle Creek, MI — doors/elevators handoffs https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21970#:~:text=Job%20Summary:,Preventive%20Maintenance%20&%20Spare%20part%20planning
