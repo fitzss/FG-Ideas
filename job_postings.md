@@ -121,7 +121,7 @@
 # Aerospace / Defense (6)
 
 - Boeing — Industrial Automation (AMR/AGV) — Everett, WA/Charleston, SC — hangar AMR + safety/traffic
-- Lockheed Martin — Manufacturing Systems (AMR/MES) — Fort Worth, TX — ITAR + auditability
+- Lockheed Martin — Manufacturing Systems (AMR/MES) — Fort Worth, TX — ITAR + auditability https://www.lockheedmartinjobs.com/job/grand-prairie/manufacturing-robotics-automation-engineer-staff/694/84666726496
 - Northrop Grumman — Automation (AMR) — Clearfield, UT — composite layup → kitting flows
 - RTX/Collins Aerospace — Controls/MES (AMR) — Cedar Rapids, IA — validation + traceability https://careers.rtx.com/global/en/job/01786456/Principal-Engineer-Manufacturing-Test-Equipment-Engineer-Smart-Factory-Onsite
 - GE Aerospace — Manufacturing IT/OT (AMR) — Cincinnati, OH — cross-brand orchestration
