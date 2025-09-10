@@ -26,13 +26,13 @@
 - DENSO — Automation Engineer (AMR/Conveyors) — Battle Creek, MI — doors/elevators handoffs https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21970#:~:text=Job%20Summary:,Preventive%20Maintenance%20&%20Spare%20part%20planning
 - Continental — Robotics Integration (AMR/WMS) — Auburn Hills, MI — cross-brand workflows
 - Lear — Industrial Engineer (Line + AMR) — Southfield, MI — line kitting via AMR https://jobs.lear.com/job/Comstock-Park-Controls-&-Automation-Engineer-Sr_-Specialist-MI-49321/1237473301/
-- Aptiv — MES Integration (AMR/AGV) — Troy, MI — order mapping, audit logs
+- Aptiv — MES Integration (AMR/AGV) — Troy, MI — order mapping, audit logs https://www.linkedin.com/jobs/view/autonomous-driving-algorithm-intern-at-aptiv-4297217725
 - Faurecia/Forvia — Controls (AMR + Safety/Traffic) — Columbus, IN — policy engine needs
 - Adient — Manufacturing Automation (AMR) — Plymouth, MI — multi-site template rollouts
 - Aisin — Controls/MES (AGV/AMR) — Seymour, IN — PLC heterogeneity
 - NSK — Automation Engineer (AGV/AMR) — Ann Arbor, MI — chargers + congestion
 - BorgWarner — Plant Systems Engineer (AMR/MES) — Auburn Hills, MI — change control
-- American Axle — Controls Engineer (AMR/Conveyors) — Detroit, MI — interlocks
+- American Axle — Controls Engineer (AMR/Conveyors) — Detroit, MI — interlocks https://careers.aam.com/en/job/detroit/mechatronics-engineer-automation-and-integration/44944/85175430336
 - Valeo — Automation/Robotics (AGV/AMR) — Troy, MI — WMS/MES ties
 - Tenneco — Manufacturing Systems (AMR) — Northville, MI — exceptions/shift KPIs
 - Cooper Standard — Controls (AMR/Doors) — Novi, MI — handoff errors
