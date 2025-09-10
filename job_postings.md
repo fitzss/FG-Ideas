@@ -116,7 +116,7 @@
 - CNH Industrial — Controls/MES (AGV/AMR) — Racine, WI/Kokomo, IN — policy & map control
 - AGCO — Manufacturing Systems (AMR) — Jackson, MN — line kitting via AMR
 - Cummins — Manufacturing IT/OT (AMR) — Columbus, IN — change control + audit
-- Oshkosh Corp. — Automation Integration (AMR) — Oshkosh, WI — doors/conveyors handoffs
+- Oshkosh Corp. — Automation Integration (AMR) — Oshkosh, WI — doors/conveyors handoffs https://builtin.com/job/controls-engineer/4389160
 
 # Aerospace / Defense (6)
 
